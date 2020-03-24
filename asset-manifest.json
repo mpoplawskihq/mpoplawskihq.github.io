@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skills-matrix/static/css/main.788bf44a.chunk.css",
+    "main.js": "/skills-matrix/static/js/main.b9ff4e48.chunk.js",
+    "main.js.map": "/skills-matrix/static/js/main.b9ff4e48.chunk.js.map",
+    "runtime-main.js": "/skills-matrix/static/js/runtime-main.bedc98b4.js",
+    "runtime-main.js.map": "/skills-matrix/static/js/runtime-main.bedc98b4.js.map",
+    "static/js/2.c19e5289.chunk.js": "/skills-matrix/static/js/2.c19e5289.chunk.js",
+    "static/js/2.c19e5289.chunk.js.map": "/skills-matrix/static/js/2.c19e5289.chunk.js.map",
+    "index.html": "/skills-matrix/index.html",
+    "precache-manifest.753eada48d0ac5d2025378d1c3376844.js": "/skills-matrix/precache-manifest.753eada48d0ac5d2025378d1c3376844.js",
+    "service-worker.js": "/skills-matrix/service-worker.js",
+    "static/css/main.788bf44a.chunk.css.map": "/skills-matrix/static/css/main.788bf44a.chunk.css.map",
+    "static/js/2.c19e5289.chunk.js.LICENSE.txt": "/skills-matrix/static/js/2.c19e5289.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bedc98b4.js",
+    "static/js/2.c19e5289.chunk.js",
+    "static/css/main.788bf44a.chunk.css",
+    "static/js/main.b9ff4e48.chunk.js"
+  ]
+}
